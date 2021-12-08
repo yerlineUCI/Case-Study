@@ -1,0 +1,24 @@
+# Clean Data
+My clean spreadsheets will be linked below. I used them to analyze the previous 7 months of Cyclist trip data to search for trends between November 2020 and May 2021.
+Each spreadsheet also includes the pivot tables and charts I created during the analysis phase.
+
+### November 2020:
+https://docs.google.com/spreadsheets/d/1DEw-bcXkSuNd-geW2uLEkPpakXjTsWpCgrCUTEbpnWw/edit?usp=sharing
+
+### December 2020:
+https://docs.google.com/spreadsheets/d/1AaC8uO7LFiF418XzLoC5CyYnsnDMhooznMMUw9HADgk/edit?usp=sharing
+
+### January 2021:
+https://docs.google.com/spreadsheets/d/1lWQNnVBhXZwGhma324KUjJm9F967_T516oty0I-whOU/edit?usp=sharing
+
+### February 2021:
+https://docs.google.com/spreadsheets/d/1CXhR2OVRfneaIcD8cUpnhS1cJl5BpuIBr9OcrJ0qzhQ/edit?usp=sharing
+
+### March 2021:
+https://docs.google.com/spreadsheets/d/19Z6RtEc72yqqfhJy91ckIsAaL_TLHq_SEeSpDnqT9Bc/edit?usp=sharing
+
+### April 2021:
+https://docs.google.com/spreadsheets/d/15c40Brf7EcYbuQiuRfVNS1EZUtLOqJyVxj1EYm_IZK0/edit?usp=sharing
+
+### May 2021:
+https://docs.google.com/spreadsheets/d/17mYDyEJczaGcG2W6IGAnlwrlB7sqKXfdzEsb7pCXLDI/edit?usp=sharing
