@@ -30,3 +30,8 @@ My data is organized by month so I will analyze each month individually and then
 
 * Members use the bikes more often than casual users, but casual users use bikes for much longer time intervals. This is most likely because members are currently mostly using the bike sharing service as a main source of transportation while casual users are using it recreationally. 
 * Both members and casual users prefer the flexibility of dropping off and picking up the bikes anywhere rather than using the docking stations. As a result, less customers are actually using the docking station and purchasing their passes there. This means that casual users are actually using the the bike sharing app to buy their pass.
+
+## Recommendations
+For this case study, I would recommend we focus on a web/mobile campaign that promotes purchasing member passes for recreational activities. This web/mobile campaign should also highlight the benefits of being able to pick up and drop off the bikes anywhere. Cyclistic should also spend less money on docking bikes since they are used significantly less than electronic and classic bikes. Lastly, I also recommend Cyclistic set up lots of bikes by parks and recreational spaces so that casual users are more tempted to buy a membership for recreational purposes.
+
+### My clean spreadsheet files will be linked in the Data.txt tab for further inspection. These datasheets include my pivot tables and the charts I used in my analysis.
